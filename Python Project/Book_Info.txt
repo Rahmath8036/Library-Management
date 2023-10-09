@@ -1,0 +1,20 @@
+1:Sci-Fi:Divergent:Veronica Roth:10:1/8/2010
+2:Romance:Fault In Our Stars:J.Green:10:2/8/2010
+3:Romance:Fault In Our Stars:J.Green:10:3/8/2010
+4:Fantasy:Twilight:S.Meyer:10:4/8/2010
+5:Romance:Eleanor&Park:R.Rowell:20:5/8/2010
+6:Fantasy:Otherworld:J.Segel:10:6/8/2010
+7:Sci-Fi:The 5th Wave:R.Yancey:15:7/8/2010
+8:Sci-Fi:Prodigy:M.Lu:10:8/8/2010
+9:Sci-Fi:Firefight:B.Sanderson:15:9/8/2010
+10:Sci-Fi:Calamity:B.Sanderson:20:10/8/2010
+11:Romance:UglyLove:C.Hoover:10:11/8/2010
+12:Romance:Notebook:N.Sparks:15:12/8/2010
+13:Romance:Twisted Love:A.Huang:20:13/8/2010
+14:Romance:Vision In White:N.Roberts:10:14/8/2010
+15:Romance:Let It Snow:B.Moran:15:15/8/2010
+16:Romance:Let It Snow:B.Moran:15:16/8/2010
+17:Fantasy:Fallen:L.Kate:10:17/8/2010
+18:Young-Adult:Speak:L.Halse:15:18/82010
+19:Young-Adult:Legend:M.Lu:20:19/8/2010
+20:Young-Adult:Stargirl:J.Spinelli:10:20/8/2010
